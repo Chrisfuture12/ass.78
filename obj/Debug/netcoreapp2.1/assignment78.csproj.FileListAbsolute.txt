@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/bin/Debug/netcoreapp2.1/assignment78.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/bin/Debug/netcoreapp2.1/assignment78.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/bin/Debug/netcoreapp2.1/assignment78.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/bin/Debug/netcoreapp2.1/assignment78.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/bin/Debug/netcoreapp2.1/assignment78.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignment78/obj/Debug/netcoreapp2.1/assignment78.pdb
